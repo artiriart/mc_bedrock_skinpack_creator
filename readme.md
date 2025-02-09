@@ -10,6 +10,6 @@ Workaround idea from this Bugtracker [Post](https://bugs.mojang.com/browse/MCPE-
 2. Open it.
 3. Do what it asks you to.
 
-Pretty simple right?
+4. Pretty simple right?
 You can view the source Codes and other stuff in this repo, if you want to make sure this is not malware or something.
 
